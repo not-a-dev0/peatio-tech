@@ -4,6 +4,20 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
+import 'bootstrap/dist/css/bootstrap.min.css'
+import './assets/css/custom.css'
+import 'animate.css'
+import 'owl.carousel/dist/assets/owl.carousel.min.css'
+import 'owl.carousel/dist/assets/owl.theme.default.min.css'
+import 'ionicons/dist/css/ionicons.min.css'
+import './assets/css/style.css'
+
+import 'jquery/dist/jquery.js'
+import 'bootstrap/dist/js/bootstrap.min.js'
+import './assets/js/plugins.js'
+import './assets/js/menu.js'
+import './assets/js/custom.js'
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
